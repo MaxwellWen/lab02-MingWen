@@ -1,4 +1,4 @@
-//ZMing Wen 5961578
+//Ming Wen 5961578
 #include "student.h"
 #include <string>
 #include <cstring>
